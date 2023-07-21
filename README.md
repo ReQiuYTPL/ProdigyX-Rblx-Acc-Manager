@@ -1,2 +1,2 @@
 # ProdigyX-Rblx-Acc-Manager
-https://youtu.be/OiCbdZlnUsQ
+Set-Up everything: https://youtu.be/OiCbdZlnUsQ
