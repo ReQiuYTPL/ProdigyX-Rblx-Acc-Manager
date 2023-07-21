@@ -1,3 +1,5 @@
+# MAKE SURE U HAVE ENABLED DEVELOPER MODE ON WINDOWS
+
 # ProdigyX-Rblx-Acc-Manager
 This Rblx Acc Manager is working with UWP Roblox
 Set-Up everything: https://youtu.be/OiCbdZlnUsQ
