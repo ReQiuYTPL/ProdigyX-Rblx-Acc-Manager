@@ -4,6 +4,8 @@ Set-Up everything: https://youtu.be/OiCbdZlnUsQ
 
 !!MAKE SURE TO RUN IT AS ADMIN, IF DON'T, SCRIPT COULD NOT UNINSTALL ROBLOX INSTANCES!!
 
+Discord: https://discord.gg/rR42njFhEz
+
 # Features
 --Creating new roblox instances<br />
 --Delete roblox instances<br />
