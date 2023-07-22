@@ -2,7 +2,7 @@
 
 # ProdigyX-Rblx-Acc-Manager
 This Rblx Acc Manager is working with UWP Roblox
-Set-Up everything: https://youtu.be/OiCbdZlnUsQ
+Set-Up everything: [https://youtu.be/OiCbdZlnUsQ](https://www.youtube.com/watch?v=Yd8z5s8ZcZI)
 
 !!MAKE SURE TO RUN IT AS ADMIN, IF DON'T, SCRIPT COULD NOT UNINSTALL ROBLOX INSTANCES!!
 
