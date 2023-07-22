@@ -6,7 +6,7 @@ Set-Up everything: https://youtu.be/OiCbdZlnUsQ
 
 !!MAKE SURE TO RUN IT AS ADMIN, IF DON'T, SCRIPT COULD NOT UNINSTALL ROBLOX INSTANCES!!
 
-Discord: https://discord.gg/rR42njFhEz
+Discord: https://discord.gg/Cbq3qSg69j
 
 # Features
 --Creating new roblox instances<br />
