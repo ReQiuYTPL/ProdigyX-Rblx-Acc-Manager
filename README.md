@@ -20,6 +20,6 @@ Discord: https://discord.gg/rR42njFhEz
 Only one roblox is running on AutoRun? just open PowerShell as admin, and type this commands:<br />
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted<br />
 Set-ExecutionPolicy -Scope CurrentUser unrestricted<br />
-Unblock-File -Path "Type here your path to the folder with the Rblx Acc Manager"\SFTA.ps1<br />
+Unblock-File -Path 'Type here your path to the folder with the Rblx Acc Manager\SFTA.ps1'<br />
 for example:<br />
-Unblock-File -Path C:\Users\KIVER\Desktop\cuentas\SFTA.ps1<br />
+Unblock-File -Path 'C:\Users\KIVER\Desktop\cuentas\SFTA.ps1'<br />
