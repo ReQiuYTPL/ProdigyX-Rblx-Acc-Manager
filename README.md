@@ -9,6 +9,7 @@ Set-Up everything: [https://youtu.be/OiCbdZlnUsQ](https://www.youtube.com/watch?
 Discord: https://discord.gg/Cbq3qSg69j
 
 # Features
+--Auto Inject<br />
 --Creating new roblox instances<br />
 --Delete roblox instances<br />
 --Clone your workspace folder to all roblox instances and add ProdigyX script into autoexec<br />
