@@ -2,7 +2,6 @@
 
 # ProdigyX-Rblx-Acc-Manager
 This Rblx Acc Manager is working with UWP Roblox
-Set-Up everything: [https://youtu.be/OiCbdZlnUsQ](https://www.youtube.com/watch?v=Yd8z5s8ZcZI)
 
 !!MAKE SURE TO RUN IT AS ADMIN, IF DON'T, SCRIPT COULD NOT UNINSTALL ROBLOX INSTANCES!!
 
@@ -17,10 +16,8 @@ Discord: https://discord.gg/Cbq3qSg69j
 --Kill roblox button<br />
 --Private server join<br />
 
-# Errors
-Only one roblox is running on AutoRun? just open PowerShell as admin, and type this commands:<br />
-Set-ExecutionPolicy -ExecutionPolicy Unrestricted<br />
-Set-ExecutionPolicy -Scope CurrentUser unrestricted<br />
-Unblock-File -Path 'Type here your path to the folder with the Rblx Acc Manager\SFTA.ps1'<br />
-for example:<br />
-Unblock-File -Path 'C:\Users\KIVER\Desktop\cuentas\SFTA.ps1'<br />
+# Why it is flagged as a Virus?
+This Roblox Account Manager has the possibility to remove installed applications on your windows and install new robloxes.<br />
+It can delete files like workspace that is located in %localappdata%<br />
+It has built-in encrypted injector that windows can't check what's in. It has also the files of the jjsploit API to inject directly to roblox.<br />
+It can change regedit values to change the default roblox apps for the URL:Roblox to run different roblox accounts.
